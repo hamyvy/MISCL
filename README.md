@@ -1,12 +1,3 @@
-Updated September 10, 2017
-
-MISCL (Mapping Incomplete Sweeps using Composite Likelihood)
-
-Ha My T. Vy and Yuseob Kim
-Ewha Womans University
-
-
-INTRODUCTION
 MISCL is a computer program package developed for generating statistics, namely composite likelihood ratio (CLR) and standardized CLR, to detect signatures of incomplete selective sweeps from population genomic data (Vy and Kim 2015). It is assumed that a user is familiar with compiling and running programs under Linux or similar environments. 
 
 A. CALCULATING COMPOSITE LIKELIHOOD RATIO
